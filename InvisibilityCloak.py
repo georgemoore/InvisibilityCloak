@@ -68,8 +68,8 @@ mask_hsv_upper_limit = [80, 255, 255]
 print("Invisibility Cloak")
 
 # Capture static Background image
-# cam = cv2.VideoCapture(0)   # Internal camera
-cam = cv2.VideoCapture(1)   # External Camera
+cam = cv2.VideoCapture(2)   # Internal camera
+#cam = cv2.VideoCapture(1)   # External Camera
 background = set_background(cam)
 
 #Apply mask to live image
