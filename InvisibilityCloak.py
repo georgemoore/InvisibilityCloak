@@ -1,5 +1,6 @@
 # InvisibilityCloak - a reason to tinker with image processing in Python motivated by being too frugal to buy the official toy
-# Invisibility_Cloak © 2021 is licensed under Attribution-NonCommercial 4.0 International
+# Invisibility_Cloak © 2021  by George Moore is licensed under Attribution-NonCommercial-ShareAlike 4.0 International
+
 
 import cv2
 import numpy as np
